@@ -1,0 +1,31 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+#cel1-1 { background-color: #e0f2f1; } 
+#cel1-2 { background-color: #80cbc4; } 
+#cel1-3 { background-color: #4db6ac; }
+#cel1-4 { background-color: #26a69a; } 
+
+#cel2-1 { background-color: #009688; }
+#cel2-2 { background-color: #00897b; } 
+#cel2-3 { background-color: #00796b; } 
+#cel2-4 { background-color: #00695c; }
+
+#cel3-1 { background-color: #004d40; } 
+#cel3-2 { background-color: #66bb6a; } 
+#cel3-3 { background-color: #43a047; } 
+#cel3-4 { background-color: #2e7d32; } 
+
+#cel4-1 { background-color: #1b5e20; } 
+#cel4-2 { background-color: #388e3c; } 
+#cel4-3 { background-color: #4caf50; }
+#cel4-4 { background-color: #81c784; }
+
